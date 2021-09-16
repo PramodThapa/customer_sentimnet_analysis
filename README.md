@@ -5,12 +5,12 @@ Sentiment analysis with LSTM model with word embedding and Natural Language Proc
 Amazon review dataset from kaggle.
 
 # Data pre-processing techniques
-1.Missing value imputation
-2.Lowecase string conversion
-3.Removal of punctutation
-4.Stropword removal
-5.Tokenization
-6.Emoji identification and converting it to crrosponding values
+1. Missing value imputation
+2. Lowercase string conversion
+3. Removal of punctutation
+4. Stropword removal
+5. Tokenization
+6. Emoji identification and converting it to crrosponding values
 7. Stemming and Lemmatization
 
 # Methodology
